@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wordmaster/static/css/main.dc4d6ff2.css",
+    "main.js": "/Wordmaster/static/js/main.8b23d3e6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Wordmaster/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Wordmaster/index.html",
+    "main.dc4d6ff2.css.map": "/Wordmaster/static/css/main.dc4d6ff2.css.map",
+    "main.8b23d3e6.js.map": "/Wordmaster/static/js/main.8b23d3e6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Wordmaster/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.8b23d3e6.js"
+  ]
+}
